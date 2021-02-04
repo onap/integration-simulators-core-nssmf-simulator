@@ -1,0 +1,8 @@
+Code-Review+1: Zihao Zhang <zhangzihao@chinamobile.com>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Thu, 04 Feb 2021 10:25:28 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/simulators/core-nssmf-simulator/+/117148
+Project: integration/simulators/core-nssmf-simulator
+Branch: refs/heads/master
