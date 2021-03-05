@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3e39a85b_1fd6c1b4",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "trailing spaces",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "64e8fcd4_91855a1f",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "carrier return to be easier to read?",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "38cd4704_50e5feca",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "add a blank line after :",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "62ff9d8a_eaa20830",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "add a blank line after titles #, ## or ###",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ffb14e8c_2ad18571",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "do you plan to \"release\" an image as an official image for the simulator for Honolulu?",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "83e19db0_f175d787",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1215
+      },
+      "writtenOn": "2021-03-05T10:13:12Z",
+      "side": 1,
+      "message": "encoded image in the readme?",
+      "revId": "19eee7fc3ede710dbdcc75542674fba6552a7f70",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
