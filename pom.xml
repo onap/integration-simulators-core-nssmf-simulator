@@ -151,7 +151,7 @@
 									<goal>build</goal>
 								</goals>
 							</execution>
-						<!--	<execution>
+							<execution>
 								<id>push-images</id>
 								<phase>deploy</phase>
 								<goals>
@@ -160,7 +160,7 @@
 								<configuration>
 									<image>core-nssmf-simulator</image>
 								</configuration>
-							</execution>-->
+							</execution>
 						</executions>
 					</plugin>
 				</plugins>
