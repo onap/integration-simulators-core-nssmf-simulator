@@ -18,4 +18,4 @@
 #  SPDX-License-Identifier: Apache-2.0
 # ============LICENSE_END=========================================================
 
-java -jar /home/onap/simulator-0.0.1-SNAPSHOT.jar --spring.config.location=/home/onap/app/application.properties
+java -jar /home/onap/simulator-0.0.1.jar --spring.config.location=/home/onap/app/application.properties
