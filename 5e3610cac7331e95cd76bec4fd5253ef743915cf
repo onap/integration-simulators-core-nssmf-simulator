@@ -1,0 +1,7 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Lukasz Rajewski <lukasz.rajewski@t-mobile.pl>
+Submitted-by: Lukasz Rajewski <lukasz.rajewski@t-mobile.pl>
+Submitted-at: Tue, 08 Nov 2022 08:50:51 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/simulators/core-nssmf-simulator/+/132005
+Project: integration/simulators/core-nssmf-simulator
+Branch: refs/heads/master
